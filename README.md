@@ -1,5 +1,7 @@
 ## Description
 
+[![][product-screenshot]](https://i.imgur.com/OcNHFwy.png)
+
 This script has been created especially for FiveM Roleplay servers but can be used for others, too! It restricts the player's drive-by by not allowing him drive-by if he is driving with higher speed that setted in script configuration.
 
 ## Installation
@@ -15,3 +17,5 @@ This script has been created especially for FiveM Roleplay servers but can be us
    ```sh
    start FiveM-AdvancedDriveBy
    ```
+
+[product-screenshot]: https://i.imgur.com/OcNHFwy.png

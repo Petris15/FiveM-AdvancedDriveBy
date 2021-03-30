@@ -8,7 +8,7 @@ This script has been created especially for FiveM Roleplay servers but can be us
 2. Extract the ZIP file
 3. Rename the script
    ```sh
-      FiveM-AdvancedDriveBy
+   FiveM-AdvancedDriveBy
    ```
 4. Drag & Drop the folder into your resources folder in your server data
 4. Put this anywhere in your server configuration file `server.cfg`

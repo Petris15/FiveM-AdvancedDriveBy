@@ -1,7 +1,6 @@
 function PetrisAdvancedDriveBy()
     local ped = PlayerPedId()
     local inveh = IsPedSittingInAnyVehicle(ped, -1)
-    local invehaspassenger = IsPedSittingInAnyVehicle(ped, -1)
     local veh = GetVehiclePedIsUsing(ped)
     local vehspeed = GetEntitySpeed(veh) * 3.6
     if inveh then

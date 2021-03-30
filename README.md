@@ -1,27 +1,17 @@
-<!-- GETTING STARTED -->
-## Getting Started
+## Description
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This script has been created especially for FiveM Roleplay servers but can be used for others, too! It restricts the player's drive-by by not allowing him drive-by if he is driving with higher speed that setted in script configuration.
 
-### Installation
+## Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Download the script
+2. Extract the ZIP file
+3. Rename the script
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+      FiveM-AdvancedDriveBy
    ```
-3. Install NPM packages
+4. Drag & Drop the folder into your resources folder in your server data
+4. Put this anywhere in your server configuration file `server.cfg`
    ```sh
-   npm install
+   start FiveM-AdvancedDriveBy
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
